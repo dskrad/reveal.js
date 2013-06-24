@@ -1,4 +1,5 @@
-<br /><br /><br />
+<img src="YSM_Shield_trans.gif" width="150px" 
+style="background:transparent;border:none;box-shadow:none" />
 # Cases
 
 David Karimeddini, MD

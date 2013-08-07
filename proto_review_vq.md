@@ -8,8 +8,8 @@ August 22, 2013
 
 
 
-![vqscan](/img/vq_scan.jpg)  
-![cta](/img/cta_pe.jpg)
+![vqscan](img/vq_scan.jpg)  
+![cta](img/cta_pe.jpg)
 
 
 

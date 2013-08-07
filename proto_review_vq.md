@@ -1,44 +1,49 @@
 <img src="img/YSM_Shield_trans.gif" width="150px" 
 style="background:transparent;border:none;box-shadow:none" />
-# Cases
+# VQ Protocol Review
 
 David Karimeddini, MD
 
-Date of Presentation
+August 22, 2013
 
 
 
-## Case 1
+![vqscan](/img/vq_scan.jpg)  
+![cta](/img/cta_pe.jpg)
 
-insert image here
+
+
+## Slide Title
 <p style="text-align: left">
 Left aligned text
 </p>
 
 
-  ## Answer 1
+
+## Slide Title
   
-  <ul>
-  <li class="fragment">
-  answer here
-  </li>
-  </ul>
+<ul>
+<li class="fragment">
+answer here
+</li>
+</ul>
 
 
 
-## Case 2
+## Slide Title
   
 * insert image here
 * second list item
 * third list item
 
 
-  ## Answer 2
 
-  answer here
+## Slide Title
+
+answer here
 
 
 
-## End
+## References
 
 [Return to beginning](#/1)

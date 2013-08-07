@@ -99,6 +99,30 @@ Assist practitioners in:
 * D-dimer
 * History of DVT / PE
 * Prior imaging (CXR, V/Q scan)
+* Anticoagulation / Thrombolytics
+* Deep vein ultrasonography
+
+
+
+## Prerequisites (preferably)
+
+* PA / Lateral CXR (recent)
+* CT chest can substitute
+
+![cxr]()
+
+
+
+## Radiopharmaceuticals
+
+### Ventilation
+
+* First
+* First
+
+### Perfusion
+
+* First
 
 
 

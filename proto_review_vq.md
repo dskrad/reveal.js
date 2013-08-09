@@ -111,7 +111,7 @@ Assist practitioners in:
 
 
 
-## Prerequisites (preferably)
+## Prerequisites <p class="fragment roll-in">(preferably)</p>
 
 * PA / Lateral CXR (recent)
 * CT chest can substitute
@@ -119,6 +119,18 @@ Assist practitioners in:
 ![cxr](img/cxr.png)
 
 
+
+<!--Display items sequentially
+
+<section>
+  <p class="fragment grow">grow</p>
+  <p class="fragment shrink">shrink</p>
+  <p class="fragment roll-in">roll-in</p>
+  <p class="fragment fade-out">fade-out</p>
+  <p class="fragment highlight-red">highlight-red</p>
+  <p class="fragment highlight-green">highlight-green</p>
+  <p class="fragment highlight-blue">highlight-blue</p>
+  </section>-->
 
 ## Radiopharmaceuticals
 
@@ -137,6 +149,7 @@ Assist practitioners in:
   * DTPA most commonly used
   * 25-35 mCi in nebulizer
   * 0.5-1.0 mCi inhaled
+  * Linear clearance within few hours
 * Tc-99m-carbon suspension (Technegas)
   * Not approved for use in USA
   * Preferable agent, expecially in COPD
@@ -157,7 +170,74 @@ Assist practitioners in:
 
 ### Perfusion
 
-* Tc-99m-MAA
+### Tc-99m-MAA
+
+* Instruct patient to cough / take several deep breaths
+* Inject while supine (reduce physiologic perfusion gradient)
+* As close to supine as reasonable in orthopneic patients
+
+
+### Tc-99m-MAA
+
+* Biologic half life: 1.5-3 hours
+* 1-4 mCi in adults
+* 200-700 K particles
+* Reduced particles for
+  * Children
+  * Pulm HTN
+  * R &rarr; L shunt
+* Agitate vial prior to injection (settling)
+
+
+
+## Protocol &mdash; Sequence of Imaging
+
+<br />
+<ul style="list-style-type:none;font-size:2em">
+  <li class="fragment roll-in">
+    V &rarr; Q
+  </li>
+    <br />
+  <li class="fragment roll-in">
+    Q &rarr; (V)
+  </li>
+</ul>
+
+
+## Protocol &mdash; Sequence of Imaging
+
+## Radioactive gases
+
+* Xe-133 usually performed **before** perfusion
+* If perfusion is performed first, ventilation may be omitted
+  * if normal
+  * if perfusion matches CXR
+* If perfusion is **abnormal**, Tc-99m will downscatter during Xe-133 ventilation
+
+* Kr-81m (high energy 190 keV) can be alternated with perfusion images
+
+
+## Protocol &mdash; Sequence of Imaging
+
+## Aerosols
+
+* Ventilation usually performed first
+* At least 4:1 ratio of perfusion to ventilation for adequate interpretation
+
+
+
+## Protocol &mdash; Tc-99m-DTPA
+
+* Multiple projections may be obtained
+* SPECT can be performed
+* Deposition is nonuniform with **turbulent** flow
+* **Central** deposition may limit interpretation
+
+
+## Protocol &mdash; Xe-133
+
+* Single-breath &#x2192; equilibrium &#x2192; washout (sensitive for COPD)
+* Usually posterior projection, but if **after** perfusion, can obtain alternate projection which best demostrated the perfusion defect
 
 
 

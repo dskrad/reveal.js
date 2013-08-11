@@ -206,7 +206,7 @@ Assist practitioners in:
 
 ## Protocol &mdash; Sequence of Imaging
 
-## Radioactive gases
+### Radioactive gases
 
 * Xe-133 usually performed **before** perfusion
 * If perfusion is performed first, ventilation may be omitted
@@ -219,7 +219,7 @@ Assist practitioners in:
 
 ## Protocol &mdash; Sequence of Imaging
 
-## Aerosols
+### Aerosols
 
 * Ventilation usually performed first
 * At least 4:1 ratio of perfusion to ventilation for adequate interpretation
@@ -238,6 +238,49 @@ Assist practitioners in:
 
 * Single-breath &#x2192; equilibrium &#x2192; washout (sensitive for COPD)
 * Usually posterior projection, but if **after** perfusion, can obtain alternate projection which best demostrated the perfusion defect
+* When possible, posterior obliques can be obtained during washout
+
+
+## Protocol &mdash; Kr-81m
+
+* Images can be obtained in all views without interference from perfusion images (190 keV)
+* Short half-life of parent (Rb-81) increases cost / decreases avaiability
+* Imaging can **alternate** with perfusion / no patient repositioning
+
+
+## Protocol &mdash; Tc-99m-MAA
+
+* Instruct patient to cough, take several deep breaths
+* Inject slowly during 3-5 respiratory cycles
+* While patient is **supine**
+* Image **upright**
+  * Increase chest cavity size
+  * Minimize diaphragmatic motion
+
+
+## Protocol &mdash; Tc-99m-MAA
+
+* Projections
+  * Ant, Post 
+  * RLat, LLat
+  * LPO, LAO, RPO, RAO
+  * May ommit AOs or Lats
+* Images of brain
+  * Distinguish R &#x2192; L shunt from free Tc-99m
+
+
+## Protocol &mdash; SPECT/CT
+
+SPECT/low-dose CT
+
+Requires:
+
+* Tc-99m Technegas
+* Tc-99m-DTPA
+* Kr-81m
+
+Provides anatomic information  
+and attenuation correction
 
 
 

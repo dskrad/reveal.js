@@ -152,7 +152,7 @@ Assist practitioners in:
   * Linear clearance within few hours
 * Tc-99m-carbon suspension (Technegas)
   * Not approved for use in USA
-  * Preferable agent, expecially in COPD
+  * Preferable agent, especially in COPD
 
 
 ### Ventilation
@@ -237,14 +237,14 @@ Assist practitioners in:
 ## Protocol &mdash; Xe-133
 
 * Single-breath &#x2192; equilibrium &#x2192; washout (sensitive for COPD)
-* Usually posterior projection, but if **after** perfusion, can obtain alternate projection which best demostrated the perfusion defect
+* Usually posterior projection, but if **after** perfusion, can obtain alternate projection which best demonstrated the perfusion defect
 * When possible, posterior obliques can be obtained during washout
 
 
 ## Protocol &mdash; Kr-81m
 
 * Images can be obtained in all views without interference from perfusion images (190 keV)
-* Short half-life of parent (Rb-81) increases cost / decreases avaiability
+* Short half-life of parent (Rb-81) increases cost / decreases availability
 * Imaging can **alternate** with perfusion / no patient repositioning
 
 
@@ -264,7 +264,7 @@ Assist practitioners in:
   * Ant, Post 
   * RLat, LLat
   * LPO, LAO, RPO, RAO
-  * May ommit AOs or Lats
+  * May omit AOs or Lats
 * Images of brain
   * Distinguish R &#x2192; L shunt from free Tc-99m
 
@@ -286,4 +286,5 @@ and attenuation correction
 
 ## References
 
-[Return to beginning](#/1)
+* Parker JA, Coleman RE, et al. SNM Practice Guideline for Lung Scintigraphy 4.0. JNMT. 2012;40:57-65.
+* Gregory, M. Yale-New Haven Hospital Protocols.

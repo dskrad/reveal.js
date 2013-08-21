@@ -186,6 +186,7 @@ Assist practitioners in:
   * Children
   * Pulm HTN
   * R &rarr; L shunt
+* 10-50 micron particles 
 * Agitate vial prior to injection (settling)
 
 
@@ -281,6 +282,49 @@ Requires:
 
 Provides anatomic information  
 and attenuation correction
+
+
+
+## Sources of Error
+
+<ul>
+  <li class="fragment">
+    Hot spots on perfusion &#x2190; clotting in syringe
+  </li>
+  <li class="fragment">
+    Ventilation and Perfusion obtained at different time points and different positions
+  </li>
+  <li class="fragment">
+    Inadequate mixing &#x2190; injecting central line
+  </li>
+  <li class="fragment">
+    Nonstandard patient positioning
+  </li>
+  <li class="fragment">
+    Thyroid uptake 
+    <ul>
+      <li class="fragment">Free pertechnetate</li>
+      <li class="fragment">Shunting</li>
+    </ul>
+  </li>
+</ul>
+
+
+
+## SPECT
+
+* Literature on SPECT is available
+* SPECT/low-dose CT literature is emerging
+* These methods have not been compared with planar imaging
+<li class="fragment">
+  Questions:
+</li>
+<ul>
+  <li class="fragment">Optimal CT dose</li>
+  <li class="fragment">Gating</li>
+  <li class="fragment">Breathing maneuvers</li>
+  <li class="fragment">Ventilation images?</li>
+</ul>
 
 
 

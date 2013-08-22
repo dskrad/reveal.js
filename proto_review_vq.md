@@ -9,6 +9,14 @@ David Karimeddini, MD
 August 22, 2013
 
 
+## What scan is this?
+
+![vq_dog](img/vq_dog.jpg)
+![vq_dog](img/vq_dog2.jpg)
+
+<p class="fragment">Canine VQ scan. **Woof!**</p>
+
+
 ![vqscan](img/vq_scan.jpg)  
 ![cta](img/cta_pe.jpg)
 
@@ -87,6 +95,10 @@ Assist practitioners in:
 </ol>
 
 
+
+![gamma_cat](img/gamma_cat.jpg)
+
+
 ## Common Clinical Indications
 
 1. Acute pulmonary embolism likelihood
@@ -96,7 +108,6 @@ Assist practitioners in:
 1. Bronchopleural fistula
 1. Cystic fibrosis
 1. Pulmonary hypertension
-
 
 
 ## Pertinent Clinical History
@@ -110,10 +121,9 @@ Assist practitioners in:
 * Deep vein ultrasonography
 
 
-
 ## Prerequisites <p class="fragment roll-in">(preferably)</p>
 
-* PA / Lateral CXR (recent)
+* PA / Lateral CXR **(recent)**
 * CT chest can substitute
 
 ![cxr](img/cxr.png)
@@ -186,7 +196,8 @@ Assist practitioners in:
   * Children
   * Pulm HTN
   * R &rarr; L shunt
-* 10-50 micron particles 
+* 90% must be 10-50 microns
+* 90% must be tagged to MAA
 * Agitate vial prior to injection (settling)
 
 
@@ -285,30 +296,9 @@ and attenuation correction
 
 
 
-## Sources of Error
+## SPECT
 
-<ul>
-  <li class="fragment">
-    Hot spots on perfusion &#x2190; clotting in syringe
-  </li>
-  <li class="fragment">
-    Ventilation and Perfusion obtained at different time points and different positions
-  </li>
-  <li class="fragment">
-    Inadequate mixing &#x2190; injecting central line
-  </li>
-  <li class="fragment">
-    Nonstandard patient positioning
-  </li>
-  <li class="fragment">
-    Thyroid uptake 
-    <ul>
-      <li class="fragment">Free pertechnetate</li>
-      <li class="fragment">Shunting</li>
-    </ul>
-  </li>
-</ul>
-
+![spect](img/spect.jpg)
 
 
 ## SPECT
@@ -324,6 +314,39 @@ and attenuation correction
   <li class="fragment">Gating</li>
   <li class="fragment">Breathing maneuvers</li>
   <li class="fragment">Ventilation images?</li>
+</ul>
+
+
+
+## Sources of Error
+
+<ul>
+  <li class="fragment">
+    Hot spots on perfusion &#x2190; <span class="fragment">clotting in syringe</span>
+  </li>
+  <li class="fragment">
+    Ventilation and Perfusion obtained at different time points and different positions
+  </li>
+  <li class="fragment">
+    Inadequate mixing &#x2190; <span class="fragment">injecting central line</span> 
+  </li>
+  <li class="fragment">
+    Nonstandard patient positioning
+  </li>
+  <li class="fragment">
+    Thyroid uptake 
+    <ul>
+      <li class="fragment">Free pertechnetate</li>
+      <li class="fragment">Shunting</li>
+    </ul>
+  </li>
+  <li class="fragment">
+    Cardiac/Pulmonary Considerations
+    <ul> 
+      <li class="fragment">Bronchodilators for COPD</li>
+      <li class="fragment">CHF &#x2192; delay imaging until treatment instituted</li>
+    </ul>
+  </li>
 </ul>
 
 

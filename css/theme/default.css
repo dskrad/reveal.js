@@ -16,7 +16,7 @@
  *********************************************/
 b,
 strong {
-  color: red;
+  color: rgba(255, 65, 65, 1);
 }
 body {
   background: #1c1e20;

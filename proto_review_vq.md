@@ -351,6 +351,15 @@ and attenuation correction
 
 
 
+## Radiation Safety
+
+![adult-dose](img/vq_dose_adults.png)
+
+
+![fetal-dose](img/vq_dose_fetal.png)
+
+
+
 ## References
 
 * Parker JA, Coleman RE, et al. SNM Practice Guideline for Lung Scintigraphy 4.0. JNMT. 2012;40:57-65.
